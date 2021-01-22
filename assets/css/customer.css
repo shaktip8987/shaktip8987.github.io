@@ -1,0 +1,78 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background-color:#FFE4E1;
+   
+  
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color:black!important;
+} 
+navbar{position: sticky;}
+.navbar-brand{
+ font-family: 'Rock Salt', cursive;
+    font-size: 2 rem;
+    color: white!important;
+    position: sticky;
+}
+
+.nav-link{
+    color: white!important;
+    font-family: 'Rock Salt', cursive;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+tr{background-color:red;
+color:black;}
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 223)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+.container table-danger{color:red;}
+.btn-info:hover{
+    background-color: #F08080!important;
+}
+footer{
+    background-color:  black;
+ color:#fff;
+    
+    text-align: center;
+}
+footer{
+    background-color:  black;
+ color:#fff;
+    
+    text-align: center;
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+
+.google{
+    color: #D44638;
+}
+
+/* footer css ends here  */
